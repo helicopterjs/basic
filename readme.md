@@ -1,6 +1,6 @@
 # Helicopter Basic
 
-This is a very basic [Helicopter](https://github.com/rumkin/helicotper)
+This is a very basic [Helicopter](https://github.com/rumkin/helicopter)
 web application template. It has clear and simple structure where all application
 is fully modular and ready to work.
 

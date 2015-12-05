@@ -17,7 +17,7 @@ exports.http = {
             saveUninitialized: true
         },
         assets : {
-            dir : __dirname + '/../public'
+            dir : __dirname + '/../assets'
         },
         routes : {
             // Enabled route types:
@@ -35,7 +35,7 @@ exports.http = {
             json: true
         },
         upload : {
-            uploadDir : __dirname + '/../tmp/uploads',
+            uploadDir : '/tmp',
             autoFiles : true
         }
     }

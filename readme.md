@@ -19,6 +19,7 @@ $ helicopter create helicopterjs/basic .
 |   |-- controllers # web controllers
 |   |-- events # socket.io events
 |   |-- models # data models
+|   |-- responses # http response methods
 |   `-- services # business logic
 |-- app.js
 |-- config
